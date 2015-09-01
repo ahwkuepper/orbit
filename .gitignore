@@ -1,6 +1,6 @@
 *.o
 *~
-coco
+orbit
 .DS_Store
 #*
 *.tar
