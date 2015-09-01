@@ -1,0 +1,10 @@
+*.o
+*~
+coco
+.DS_Store
+#*
+*.tar
+*.gz
+Papers
+streakline.txt
+clusterorbit.txt
